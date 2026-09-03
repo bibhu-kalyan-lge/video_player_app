@@ -6,7 +6,6 @@
 #include <gst/audio/audio.h>
 
 #include <iostream>
-using namespace std;
 
 bool VideoPlayer::initialize(
     const std::string& filepath)
