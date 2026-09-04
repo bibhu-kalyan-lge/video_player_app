@@ -1,2 +1,17 @@
+# VS Code
 .vscode/
-Say Hello To 2024 XUV700 - MAHINDRA XUV7XO (1080p, h264).mp4
+
+# Build Outputs
+*.obj
+*.exe
+*.pdb
+*.ilk
+
+# Media Files
+*.mp4
+*.mkv
+*.avi
+
+# Temporary Files
+*.log
+*.tmp
